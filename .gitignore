@@ -1,0 +1,14 @@
+scratch/**
+src/normalform.egg-info/**
+__pycache__/**
+.pytest_cache/**
+.venv/**
+.env
+
+
+AGENTS.md
+.DS_Store
+
+
+*.pyc
+.vscode/**
